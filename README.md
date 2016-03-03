@@ -1,4 +1,6 @@
 # branch-jedi-battlemaster
-Juyo
-Gamer Geek
-College Student, Junior Status, SUNY Plattsburgh
+#Juyo
+#Gamer Geek
+#College Student, Junior Status, SUNY Plattsburgh
+
+
