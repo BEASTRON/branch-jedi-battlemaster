@@ -5,7 +5,7 @@
 
 #!/usr/bin/perl
 
-#Bernardo D. Villajuan
+
 #CSC310
 #March 1, 2016
 
